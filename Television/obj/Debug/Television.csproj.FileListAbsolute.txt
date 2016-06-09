@@ -1,0 +1,6 @@
+C:\Users\moren\Documents\COIS 240\COIS240\Television\bin\Debug\Television.exe.config
+C:\Users\moren\Documents\COIS 240\COIS240\Television\bin\Debug\Television.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Television\bin\Debug\Television.pdb
+C:\Users\moren\Documents\COIS 240\COIS240\Television\obj\Debug\Television.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\COIS240\Television\obj\Debug\Television.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Television\obj\Debug\Television.pdb

@@ -1,0 +1,6 @@
+C:\Users\moren\Documents\COIS 240\COIS240\Person\bin\Debug\Person.exe.config
+C:\Users\moren\Documents\COIS 240\COIS240\Person\bin\Debug\Person.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Person\bin\Debug\Person.pdb
+C:\Users\moren\Documents\COIS 240\COIS240\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\COIS240\Person\obj\Debug\Person.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Person\obj\Debug\Person.pdb

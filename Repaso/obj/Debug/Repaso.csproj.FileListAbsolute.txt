@@ -1,0 +1,6 @@
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\bin\Debug\Repaso.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\bin\Debug\Repaso.pdb
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\obj\Debug\Repaso.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Repaso\obj\Debug\Repaso.pdb

@@ -1,0 +1,6 @@
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\bin\Debug\FortuneCookie.exe.config
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\obj\Debug\FortuneCookie.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\bin\Debug\FortuneCookie.exe
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\bin\Debug\FortuneCookie.pdb
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\obj\Debug\FortuneCookie.exe
+C:\Users\moren\Documents\COIS 240\COIS240\FortuneCookie\obj\Debug\FortuneCookie.pdb

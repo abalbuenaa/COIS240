@@ -1,0 +1,6 @@
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\bin\Debug\Planets.exe.config
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\obj\Debug\Planets.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\bin\Debug\Planets.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\bin\Debug\Planets.pdb
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\obj\Debug\Planets.exe
+C:\Users\moren\Documents\COIS 240\COIS240\Planets\obj\Debug\Planets.pdb
